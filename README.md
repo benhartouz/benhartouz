@@ -10,6 +10,6 @@ My experience allows me to pick the right strategy for developing cross-platform
 
 📫   Feel free to email me at [benhartouzmohamed@gmail.com](mailto:benhartouzmohamed@gmail.com).
 
-For more information on my career :smiley: , do not hesitate to consult my [LinkedIn](https://www.linkedin.com/in/mohamed-benhartouz-01593498/).
+For more information on my career :smiley: , do not hesitate to consult my [LinkedIn](https://www.linkedin.com/in/mohamed-ben-hartouz-01593498/).
 
 Code never lies, comments sometimes do :grin: .
