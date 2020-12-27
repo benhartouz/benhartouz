@@ -8,7 +8,7 @@ I work professionally on ReactJS & React Native application and I consider mysel
 
 My experience allows me to pick the right strategy for developing cross-platform applications that run on a variety of desktop computers as well as mobile devices.
 
-📫   Feel free to email me at [benhartouzmohamed@gmail.com](mailto:benhartouzmohamed@gmail.com).
+📫 &nbsp; Feel free to email me at [benhartouzmohamed@gmail.com](mailto:benhartouzmohamed@gmail.com).
 
 For more information on my career :smiley: , do not hesitate to consult my [LinkedIn](https://www.linkedin.com/in/mohamed-ben-hartouz-01593498/).
 
