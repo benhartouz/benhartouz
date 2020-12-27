@@ -2,7 +2,7 @@
 
 I'm a full-stack developer currently obsessed with Javascript world.
 
-🔭   Currently I'am Consultant ReactNative developer at [DisneyLand Paris](https://www.disneylandparis.com/en-gb/mobile-app/)
+🔭  React Native developer at [DisneyLand Paris](https://www.disneylandparis.com/en-gb/mobile-app/)
 
 I work professionally on ReactJS & React Native application and I consider myself a limitless learner focused about everything related to web/mobile development.
 
