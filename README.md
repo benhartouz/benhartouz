@@ -22,3 +22,5 @@ For more information on my career :smiley: , do not hesitate to consult my
 Code never lies, comments sometimes do :grin: .
 
 ![Benhartouz's github stats](https://github-readme-stats.vercel.app/api?username=benhartouz&show_icons=true&count_private=true)
+
+<a href="https://stackoverflow.com/users/4147886/mohamed-ben-hartouz"><img src="https://stackoverflow.com/users/flair/4147886.png" width="208" height="58" alt="profile for Mohamed Ben Hartouz at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mohamed Ben Hartouz at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
