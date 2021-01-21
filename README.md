@@ -21,4 +21,4 @@ For more information on my career :smiley: , do not hesitate to consult my
 
 Code never lies, comments sometimes do :grin: .
 
-![Benhartouz's github stats](https://github-readme-stats.vercel.app/api?username=benhartouz)
+![Benhartouz's github stats](https://github-readme-stats.vercel.app/api?username=benhartouz&show_icons=true&count_private=true)
